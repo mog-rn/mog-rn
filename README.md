@@ -10,7 +10,7 @@ I'm a software engineer specializing in building web and mobile solutions using 
 - Frontend Development: ReactJS,NextJS
 - Mobile App Development: Kotlin, React Native
 - Cloud Technologies: AWS, GCP
-- Backend DevelopmentL NestJS, NodeJS
+- Backend DevelopmentL NestJS, NodeJS, Java(Springboot)
 - Databases: PostgreSQL, MySQL, MongoDB
 
 #
@@ -21,8 +21,8 @@ I'm a software engineer specializing in building web and mobile solutions using 
 
 
 ### 🌐 Connect with Me
-- LinkedIn: [amos-nyaburi](https://www.linkedin.com/in/amos-nyaburi)
-- Twitter: [@amos_mogrn](https://twitter.com/amos_mogrn)
+- LinkedIn: [amos-nyaburi](https://www.linkedin.com/in/mog-rn)
+- Twitter: [@amos_mogrn](https://twitter.com/rn_mog)
 - Portfolio: [mog-rn.me](https://www.mog-rn.me)
 
 ### 📫 Contact Me
