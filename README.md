@@ -26,7 +26,7 @@ I'm a software engineer specializing in building web and mobile solutions using 
 - Portfolio: [mog-rn.me](https://www.mog-rn.me)
 
 ### 📫 Contact Me
-Feel free to reach out at [mogaka.am0254@gmail.com](mailto:mogaka.amo254@gmail.com). Let's collaborate and create amazing solutions together!
+Feel free to reach out at [amos.nyaburi@mog-rn.me](mailto:amos.nyaburi@mog-rn.me). Let's collaborate and create amazing solutions together!
 
 
 💻 Check out my repos below and let's innovate together! 🚀
